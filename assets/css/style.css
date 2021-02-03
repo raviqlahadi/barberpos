@@ -1,0 +1,64 @@
+.search-toogle {    
+    cursor: pointer;
+    color: #3c4b64;
+}
+
+.search-toogle:hover{
+    color: #321fdb; 
+}
+
+
+.c-sidebar {
+    background-color: #E12025;
+    -webkit-box-shadow: 2px 0px 2px 0px rgba(0, 0, 0, 0.16);
+    -moz-box-shadow: 2px 0px 2px 0px rgba(0, 0, 0, 0.16);
+    box-shadow: 2px 0px 2px 0px rgba(0, 0, 0, 0.16);
+    
+}
+.c-sidebar-nav-title{
+     color: #fff!important;
+}
+.c-sidebar .c-sidebar-nav-link {
+    color: #fff; 
+}
+
+.c-sidebar .c-sidebar-nav-link .fa{
+    color: #fff;
+}
+
+.c-sidebar-nav-link.c-active{
+    background: rgba(0, 0, 0, .05)!important;
+    color: #FFF000!important;
+}
+
+.c-sidebar-nav-link.c-active .fa {
+    color: #FFF000 !important;
+}
+
+.c-sidebar-minimized .c-sidebar-nav-link:hover {
+    background-color: #FFF000!important;
+    color: #fff!important;
+}
+.c-sidebar .c-sidebar-nav-link:hover {
+    background-color: #FFF000;
+    color: #fff;
+}
+
+.c-sidebar .c-sidebar-nav-link .fa {
+    color: #fff;
+}
+
+
+.c-sidebar-brand {
+    background-color: #E12025 !important;
+    color: #fff !important;
+}
+.c-sidebar-minimizer.c-class-toggler{
+    background-color: #E12025 !important;
+}
+.c-sidebar-minimizer.c-class-toggler:hover{
+    color: #FFF000 !important;
+}
+.c-sidebar-minimizer::before{
+    fill:#E12025;
+}
